@@ -1,4 +1,4 @@
 ver=849
-lang=es
+lang=en
 font=true
 font_num=false
